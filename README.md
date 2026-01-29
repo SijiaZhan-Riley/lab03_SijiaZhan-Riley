@@ -1,2 +1,1 @@
-# STARTER-lab03
-# Implementing a BST
+# lab03_SijiaZhan-Riley
